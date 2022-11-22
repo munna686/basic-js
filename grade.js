@@ -1,4 +1,4 @@
-var mark = 65;
+var mark = 78;
 if(mark > 80){
     console.log('A+')
 }
